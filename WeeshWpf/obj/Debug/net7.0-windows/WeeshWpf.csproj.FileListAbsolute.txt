@@ -1,0 +1,108 @@
+C:\Users\Денис\source\repos\WeeshWpf\WeeshWpf\bin\Debug\net7.0-windows\WeeshWpf.exe
+C:\Users\Денис\source\repos\WeeshWpf\WeeshWpf\bin\Debug\net7.0-windows\WeeshWpf.deps.json
+C:\Users\Денис\source\repos\WeeshWpf\WeeshWpf\bin\Debug\net7.0-windows\WeeshWpf.runtimeconfig.json
+C:\Users\Денис\source\repos\WeeshWpf\WeeshWpf\bin\Debug\net7.0-windows\WeeshWpf.dll
+C:\Users\Денис\source\repos\WeeshWpf\WeeshWpf\bin\Debug\net7.0-windows\WeeshWpf.pdb
+C:\Users\Денис\source\repos\WeeshWpf\WeeshWpf\obj\Debug\net7.0-windows\WeeshWpf.csproj.AssemblyReference.cache
+C:\Users\Денис\source\repos\WeeshWpf\WeeshWpf\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\Денис\source\repos\WeeshWpf\WeeshWpf\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Денис\source\repos\WeeshWpf\WeeshWpf\obj\Debug\net7.0-windows\WeeshWpf_MarkupCompile.cache
+C:\Users\Денис\source\repos\WeeshWpf\WeeshWpf\obj\Debug\net7.0-windows\WeeshWpf_MarkupCompile.lref
+C:\Users\Денис\source\repos\WeeshWpf\WeeshWpf\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\Денис\source\repos\WeeshWpf\WeeshWpf\obj\Debug\net7.0-windows\WeeshWpf.g.resources
+C:\Users\Денис\source\repos\WeeshWpf\WeeshWpf\obj\Debug\net7.0-windows\WeeshWpf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Денис\source\repos\WeeshWpf\WeeshWpf\obj\Debug\net7.0-windows\WeeshWpf.AssemblyInfoInputs.cache
+C:\Users\Денис\source\repos\WeeshWpf\WeeshWpf\obj\Debug\net7.0-windows\WeeshWpf.AssemblyInfo.cs
+C:\Users\Денис\source\repos\WeeshWpf\WeeshWpf\obj\Debug\net7.0-windows\WeeshWpf.csproj.CoreCompileInputs.cache
+C:\Users\Денис\source\repos\WeeshWpf\WeeshWpf\obj\Debug\net7.0-windows\WeeshWpf.dll
+C:\Users\Денис\source\repos\WeeshWpf\WeeshWpf\obj\Debug\net7.0-windows\refint\WeeshWpf.dll
+C:\Users\Денис\source\repos\WeeshWpf\WeeshWpf\obj\Debug\net7.0-windows\WeeshWpf.pdb
+C:\Users\Денис\source\repos\WeeshWpf\WeeshWpf\obj\Debug\net7.0-windows\WeeshWpf.genruntimeconfig.cache
+C:\Users\Денис\source\repos\WeeshWpf\WeeshWpf\obj\Debug\net7.0-windows\ref\WeeshWpf.dll
+C:\Users\Денис\source\repos\WeeshWpf\WeeshWpf\obj\Debug\net7.0-windows\HireWindow.g.cs
+C:\Users\Денис\source\repos\WeeshWpf\WeeshWpf\obj\Debug\net7.0-windows\HireWindow.baml
+C:\Users\samua\OneDrive\Рабочий стол\WeeshWpf\WeeshWpf\bin\Debug\net7.0-windows\WeeshWpf.exe
+C:\Users\samua\OneDrive\Рабочий стол\WeeshWpf\WeeshWpf\bin\Debug\net7.0-windows\WeeshWpf.deps.json
+C:\Users\samua\OneDrive\Рабочий стол\WeeshWpf\WeeshWpf\bin\Debug\net7.0-windows\WeeshWpf.runtimeconfig.json
+C:\Users\samua\OneDrive\Рабочий стол\WeeshWpf\WeeshWpf\bin\Debug\net7.0-windows\WeeshWpf.dll
+C:\Users\samua\OneDrive\Рабочий стол\WeeshWpf\WeeshWpf\bin\Debug\net7.0-windows\WeeshWpf.pdb
+C:\Users\samua\OneDrive\Рабочий стол\WeeshWpf\WeeshWpf\obj\Debug\net7.0-windows\WeeshWpf.csproj.AssemblyReference.cache
+C:\Users\samua\OneDrive\Рабочий стол\WeeshWpf\WeeshWpf\obj\Debug\net7.0-windows\HireWindow.g.cs
+C:\Users\samua\OneDrive\Рабочий стол\WeeshWpf\WeeshWpf\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\samua\OneDrive\Рабочий стол\WeeshWpf\WeeshWpf\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\samua\OneDrive\Рабочий стол\WeeshWpf\WeeshWpf\obj\Debug\net7.0-windows\WeeshWpf_MarkupCompile.cache
+C:\Users\samua\OneDrive\Рабочий стол\WeeshWpf\WeeshWpf\obj\Debug\net7.0-windows\WeeshWpf_MarkupCompile.lref
+C:\Users\samua\OneDrive\Рабочий стол\WeeshWpf\WeeshWpf\obj\Debug\net7.0-windows\HireWindow.baml
+C:\Users\samua\OneDrive\Рабочий стол\WeeshWpf\WeeshWpf\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\samua\OneDrive\Рабочий стол\WeeshWpf\WeeshWpf\obj\Debug\net7.0-windows\WeeshWpf.g.resources
+C:\Users\samua\OneDrive\Рабочий стол\WeeshWpf\WeeshWpf\obj\Debug\net7.0-windows\WeeshWpf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samua\OneDrive\Рабочий стол\WeeshWpf\WeeshWpf\obj\Debug\net7.0-windows\WeeshWpf.AssemblyInfoInputs.cache
+C:\Users\samua\OneDrive\Рабочий стол\WeeshWpf\WeeshWpf\obj\Debug\net7.0-windows\WeeshWpf.AssemblyInfo.cs
+C:\Users\samua\OneDrive\Рабочий стол\WeeshWpf\WeeshWpf\obj\Debug\net7.0-windows\WeeshWpf.csproj.CoreCompileInputs.cache
+C:\Users\samua\OneDrive\Рабочий стол\WeeshWpf\WeeshWpf\obj\Debug\net7.0-windows\WeeshWpf.dll
+C:\Users\samua\OneDrive\Рабочий стол\WeeshWpf\WeeshWpf\obj\Debug\net7.0-windows\refint\WeeshWpf.dll
+C:\Users\samua\OneDrive\Рабочий стол\WeeshWpf\WeeshWpf\obj\Debug\net7.0-windows\WeeshWpf.pdb
+C:\Users\samua\OneDrive\Рабочий стол\WeeshWpf\WeeshWpf\obj\Debug\net7.0-windows\WeeshWpf.genruntimeconfig.cache
+C:\Users\samua\OneDrive\Рабочий стол\WeeshWpf\WeeshWpf\obj\Debug\net7.0-windows\ref\WeeshWpf.dll
+C:\Users\Денис\source\repos\WeeshWpf\WeeshWpf\obj\Debug\net7.0-windows\PollingControl.g.cs
+C:\Users\Денис\source\repos\WeeshWpf\WeeshWpf\obj\Debug\net7.0-windows\PollingControl.baml
+C:\Users\Денис\source\repos\WeeshWpf\WeeshWpf\obj\Debug\net7.0-windows\HomePage.g.cs
+C:\Users\Денис\source\repos\WeeshWpf\WeeshWpf\obj\Debug\net7.0-windows\HomePage.baml
+C:\Users\Денис\source\repos\WeeshWpf\WeeshWpf\obj\Debug\net7.0-windows\UserAccountControl.g.cs
+C:\Users\Денис\source\repos\WeeshWpf\WeeshWpf\obj\Debug\net7.0-windows\UserAccountControl.baml
+C:\Users\Денис\source\repos\WeeshWpf\WeeshWpf\bin\Debug\net7.0-windows\Xceed.Wpf.AvalonDock.NET5.dll
+C:\Users\Денис\source\repos\WeeshWpf\WeeshWpf\bin\Debug\net7.0-windows\Xceed.Wpf.AvalonDock.Themes.Aero.NET5.dll
+C:\Users\Денис\source\repos\WeeshWpf\WeeshWpf\bin\Debug\net7.0-windows\Xceed.Wpf.AvalonDock.Themes.Metro.NET5.dll
+C:\Users\Денис\source\repos\WeeshWpf\WeeshWpf\bin\Debug\net7.0-windows\Xceed.Wpf.AvalonDock.Themes.VS2010.NET5.dll
+C:\Users\Денис\source\repos\WeeshWpf\WeeshWpf\bin\Debug\net7.0-windows\Xceed.Wpf.Toolkit.NET5.dll
+C:\Users\Денис\source\repos\WeeshWpf\WeeshWpf\bin\Debug\net7.0-windows\cs-CZ\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\Денис\source\repos\WeeshWpf\WeeshWpf\bin\Debug\net7.0-windows\de\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\Денис\source\repos\WeeshWpf\WeeshWpf\bin\Debug\net7.0-windows\es\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\Денис\source\repos\WeeshWpf\WeeshWpf\bin\Debug\net7.0-windows\fr\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\Денис\source\repos\WeeshWpf\WeeshWpf\bin\Debug\net7.0-windows\hu\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\Денис\source\repos\WeeshWpf\WeeshWpf\bin\Debug\net7.0-windows\it\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\Денис\source\repos\WeeshWpf\WeeshWpf\bin\Debug\net7.0-windows\ja-JP\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\Денис\source\repos\WeeshWpf\WeeshWpf\bin\Debug\net7.0-windows\pt-BR\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\Денис\source\repos\WeeshWpf\WeeshWpf\bin\Debug\net7.0-windows\ro\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\Денис\source\repos\WeeshWpf\WeeshWpf\bin\Debug\net7.0-windows\ru\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\Денис\source\repos\WeeshWpf\WeeshWpf\bin\Debug\net7.0-windows\sv\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\Денис\source\repos\WeeshWpf\WeeshWpf\bin\Debug\net7.0-windows\zh-Hans\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\Денис\source\repos\WeeshWpf\WeeshWpf\obj\Debug\net7.0-windows\WeeshWpf.csproj.CopyComplete
+C:\Users\samua\OneDrive\Рабочий стол\WeeshWpf\WeeshWpf\bin\Debug\net7.0-windows\Xceed.Wpf.AvalonDock.NET5.dll
+C:\Users\samua\OneDrive\Рабочий стол\WeeshWpf\WeeshWpf\bin\Debug\net7.0-windows\Xceed.Wpf.AvalonDock.Themes.Aero.NET5.dll
+C:\Users\samua\OneDrive\Рабочий стол\WeeshWpf\WeeshWpf\bin\Debug\net7.0-windows\Xceed.Wpf.AvalonDock.Themes.Metro.NET5.dll
+C:\Users\samua\OneDrive\Рабочий стол\WeeshWpf\WeeshWpf\bin\Debug\net7.0-windows\Xceed.Wpf.AvalonDock.Themes.VS2010.NET5.dll
+C:\Users\samua\OneDrive\Рабочий стол\WeeshWpf\WeeshWpf\bin\Debug\net7.0-windows\Xceed.Wpf.Toolkit.NET5.dll
+C:\Users\samua\OneDrive\Рабочий стол\WeeshWpf\WeeshWpf\bin\Debug\net7.0-windows\cs-CZ\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\samua\OneDrive\Рабочий стол\WeeshWpf\WeeshWpf\bin\Debug\net7.0-windows\de\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\samua\OneDrive\Рабочий стол\WeeshWpf\WeeshWpf\bin\Debug\net7.0-windows\es\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\samua\OneDrive\Рабочий стол\WeeshWpf\WeeshWpf\bin\Debug\net7.0-windows\fr\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\samua\OneDrive\Рабочий стол\WeeshWpf\WeeshWpf\bin\Debug\net7.0-windows\hu\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\samua\OneDrive\Рабочий стол\WeeshWpf\WeeshWpf\bin\Debug\net7.0-windows\it\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\samua\OneDrive\Рабочий стол\WeeshWpf\WeeshWpf\bin\Debug\net7.0-windows\ja-JP\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\samua\OneDrive\Рабочий стол\WeeshWpf\WeeshWpf\bin\Debug\net7.0-windows\pt-BR\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\samua\OneDrive\Рабочий стол\WeeshWpf\WeeshWpf\bin\Debug\net7.0-windows\ro\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\samua\OneDrive\Рабочий стол\WeeshWpf\WeeshWpf\bin\Debug\net7.0-windows\ru\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\samua\OneDrive\Рабочий стол\WeeshWpf\WeeshWpf\bin\Debug\net7.0-windows\sv\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\samua\OneDrive\Рабочий стол\WeeshWpf\WeeshWpf\bin\Debug\net7.0-windows\zh-Hans\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\samua\OneDrive\Рабочий стол\WeeshWpf\WeeshWpf\obj\Debug\net7.0-windows\HomePage.g.cs
+C:\Users\samua\OneDrive\Рабочий стол\WeeshWpf\WeeshWpf\obj\Debug\net7.0-windows\PollingControl.g.cs
+C:\Users\samua\OneDrive\Рабочий стол\WeeshWpf\WeeshWpf\obj\Debug\net7.0-windows\UserAccountControl.g.cs
+C:\Users\samua\OneDrive\Рабочий стол\WeeshWpf\WeeshWpf\obj\Debug\net7.0-windows\HomePage.baml
+C:\Users\samua\OneDrive\Рабочий стол\WeeshWpf\WeeshWpf\obj\Debug\net7.0-windows\PollingControl.baml
+C:\Users\samua\OneDrive\Рабочий стол\WeeshWpf\WeeshWpf\obj\Debug\net7.0-windows\UserAccountControl.baml
+C:\Users\samua\OneDrive\Рабочий стол\WeeshWpf\WeeshWpf\obj\Debug\net7.0-windows\WeeshWpf.csproj.CopyComplete
+C:\Users\Денис\source\repos\WeeshWpf\WeeshWpf\bin\Debug\net7.0-windows\Weesh.deps.json
+C:\Users\Денис\source\repos\WeeshWpf\WeeshWpf\bin\Debug\net7.0-windows\Weesh.runtimeconfig.json
+C:\Users\Денис\source\repos\WeeshWpf\WeeshWpf\bin\Debug\net7.0-windows\Weesh.exe
+C:\Users\Денис\source\repos\WeeshWpf\WeeshWpf\bin\Debug\net7.0-windows\Weesh.BusinessLogic.dll
+C:\Users\Денис\source\repos\WeeshWpf\WeeshWpf\bin\Debug\net7.0-windows\Weesh.DataAccess.dll
+C:\Users\Денис\source\repos\WeeshWpf\WeeshWpf\bin\Debug\net7.0-windows\Weesh.dll
+C:\Users\Денис\source\repos\WeeshWpf\WeeshWpf\bin\Debug\net7.0-windows\Weesh.UserInterface.dll
+C:\Users\Денис\source\repos\WeeshWpf\WeeshWpf\bin\Debug\net7.0-windows\Weesh.pdb
+C:\Users\Денис\source\repos\WeeshWpf\WeeshWpf\bin\Debug\net7.0-windows\Weesh.BusinessLogic.pdb
+C:\Users\Денис\source\repos\WeeshWpf\WeeshWpf\bin\Debug\net7.0-windows\Weesh.DataAccess.pdb
+C:\Users\Денис\source\repos\WeeshWpf\WeeshWpf\bin\Debug\net7.0-windows\Weesh.UserInterface.pdb
+C:\Users\Денис\source\repos\WeeshWpf\WeeshWpf\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Денис\source\repos\WeeshWpf\WeeshWpf\obj\Debug\net7.0-windows\ScooterRange.g.cs
+C:\Users\Денис\source\repos\WeeshWpf\WeeshWpf\obj\Debug\net7.0-windows\ScooterRange.baml

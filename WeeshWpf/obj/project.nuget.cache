@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "WrITDRJ/iPJNE4VJrRB4kuld8s2rmjTDfKo4k5kIQMObkHii+mpEKOiHN4QBzNHTS1xTeAMkvFMmtO5NVK++NQ==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\samua\\OneDrive\\Рабочий стол\\WeeshWpf\\WeeshWpf\\WeeshWpf.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\samua\\.nuget\\packages\\extended.wpf.toolkit\\4.5.1\\extended.wpf.toolkit.4.5.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Не удалось найти проект \"C:\\Users\\samua\\Desktop\\ТехнологииПрограммирования\\Weesh\\Weesh\\Weesh.csproj\". Убедитесь, что ссылка на проект действительна и файл проекта существует.",
+      "libraryId": "C:\\Users\\samua\\Desktop\\ТехнологииПрограммирования\\Weesh\\Weesh\\Weesh.csproj",
+      "targetGraphs": [
+        "net7.0-windows7.0"
+      ]
+    }
+  ]
+}

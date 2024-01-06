@@ -1,0 +1,46 @@
+﻿<UserControl x:Class="WeeshWpf.ScooterRange"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:WeeshWpf"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <Grid>
+        <Rectangle Fill="Black" Opacity="0.5" HorizontalAlignment="Center" VerticalAlignment="Center" Width="420" Height="420">
+            <Rectangle.RadiusX>20</Rectangle.RadiusX>
+            <Rectangle.RadiusY>20</Rectangle.RadiusY>
+        </Rectangle>
+        <DataGrid Background="#FFF7D085" AutoGenerateColumns="False" CanUserAddRows="False" VerticalAlignment="Center" HorizontalAlignment="Center">
+            <DataGrid.Resources>
+                <!-- Стиль для ячеек -->
+                <Style TargetType="DataGridCell">
+                    <Setter Property="Background" Value="#FFF7D085"/>
+                </Style>
+            </DataGrid.Resources>
+
+            <DataGrid.Columns>
+                <!-- Photo of the scooter -->
+                <DataGridTemplateColumn Header="Фото самоката">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Image Source="{Binding ScooterPhoto}" Height="100"/>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+
+                <!-- Battery capacity -->
+                <DataGridTextColumn Header="Объем аккумулятора" Binding="{Binding BatteryCapacity}" />
+
+                <!-- Range -->
+                <DataGridTextColumn Header="Запас хода" Binding="{Binding Range}" />
+            </DataGrid.Columns>
+
+            <DataGrid.Items>
+                <local:YourDataType ScooterPhoto="C:\Users\Денис\source\repos\WeeshWpf\WeeshWpf\Elements\bestScooter.jpg" BatteryCapacity="7800 мА*ч" Range="до 24 км"/>
+                <local:YourDataType ScooterPhoto="C:\Users\Денис\source\repos\WeeshWpf\WeeshWpf\Elements\midleScooter.jpg" BatteryCapacity="5200 мА*ч" Range="до 16 км"/>
+                <local:YourDataType ScooterPhoto="C:\Users\Денис\source\repos\WeeshWpf\WeeshWpf\Elements\lowScooter.jpg" BatteryCapacity="2600 мА*ч" Range="до 8 км"/>
+            </DataGrid.Items>
+        </DataGrid>
+    </Grid>
+</UserControl>
